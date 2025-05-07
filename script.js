@@ -164,7 +164,7 @@ function showMemory(key) {
 
 function createTextImage(text, padding = 8, fontSize = 7) {
   const ratio = window.devicePixelRatio || 1;
-  const font = `${fontSize}px 'Noto Sans KR', sans-serif`;
+  const font = `${fontSize}px 'ChosunGu'`;
 
   const measureCanvas = document.createElement("canvas");
   const measureCtx = measureCanvas.getContext("2d");
