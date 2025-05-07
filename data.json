@@ -15,7 +15,7 @@
       },
       "a2": {
         "text": "시간이 흐르자 빛들이 깨어나니, 초록, 푸름, 분홍이 방 안을 춤추며 흘렀고. 그들은 운명의 놀이를 시작하였노라. 패배자는 낯선 이에게 잔을 청하여야 했고, 그 임무는 그녀의 몫이 되었도다.",
-        "bg": "assets/bg1.png",
+        "bg": "assets/bg3.png",
         "next": ["a3"],
         "icon": ["apple01.png", "apple02.png", "apple03.png", "apple04.png", "apple05.png", "apple06.png", "apple07.png", "apple08.png", "apple09.png", "apple10.png", "apple11.png", "apple12.png", "apple13.png"]
       },
