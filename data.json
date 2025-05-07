@@ -1,0 +1,38 @@
+{
+    "memories": {
+      "start": {
+        "title": "처음 만남",
+        "text": "노래하라. 즉흥의 불꽃으로 모인 네 명의 여인을. 그 중 가장 경험 많던 그녀는, 술의 길과 음악의 집을 아는 자였고, 먼저 말하길, “이 길을 따르라. 우리 먼저 별과 행성의 주점을 지나, 춤의 전장으로 나아가리라.",
+        "bg": "assets/bg1.png",
+        "next": ["a1"],
+        "icon": ["apple01.png", "apple02.png", "apple03.png", "apple04.png", "apple05.png", "apple06.png", "apple07.png", "apple08.png", "apple09.png", "apple10.png", "apple11.png", "apple12.png", "apple13.png"]
+      },
+      "a1": {
+        "text": "그들은 도착하니, 그곳은 새로운 행성, 빛으로 흐르는 곳이었고, 각 테이블마다 다른 불이 켜져, 합쳐지고 흩어지고, 모이고 사라지는 이들 앞날의 운명을 결정했노라. 그들은 국물 요리를 앞에 두고, 술잔을 기울이며 많은 것을 나누었도다 : 사랑의무너짐, 졸업의그늘, 교수들의성질, 잊힌수업들.",
+        "bg": "assets/bg2.png",
+        "next": ["a2"],
+        "icon": ["apple01.png", "apple02.png", "apple03.png", "apple04.png", "apple05.png", "apple06.png", "apple07.png", "apple08.png", "apple09.png", "apple10.png", "apple11.png", "apple12.png", "apple13.png"]
+      },
+      "a2": {
+        "text": "시간이 흐르자 빛들이 깨어나니, 초록, 푸름, 분홍이 방 안을 춤추며 흘렀고. 그들은 운명의 놀이를 시작하였노라. 패배자는 낯선 이에게 잔을 청하여야 했고, 그 임무는 그녀의 몫이 되었도다.",
+        "bg": "assets/bg1.png",
+        "next": ["a3"],
+        "icon": ["apple01.png", "apple02.png", "apple03.png", "apple04.png", "apple05.png", "apple06.png", "apple07.png", "apple08.png", "apple09.png", "apple10.png", "apple11.png", "apple12.png", "apple13.png"]
+      },
+      "a3": {
+        "text": "자전거 바퀴에 손이 베였던 날이 생각난다.",
+        "bg": "assets/bg1.png",
+        "next": ["a4"],
+        "icon": ["apple01.png", "apple02.png", "apple03.png", "apple04.png", "apple05.png", "apple06.png", "apple07.png", "apple08.png", "apple09.png", "apple10.png", "apple11.png", "apple12.png", "apple13.png"]
+      },
+      "a4": {
+        "text": "그녀는 방 안을 둘러보며, 가장 빛나는 두 여인이 앉은 테이블로 걸어갔고, 부드럽게 웃으며 말하였노라: “게임에서 졌습니다… 하지만, 계속 지켜보았는데, 두 분 모두 너무 아름다우시네요.",
+        "bg": "assets/bg1.png",
+        "next": ["a5"],
+        "icon": ["apple01.png", "apple02.png", "apple03.png", "apple04.png", "apple05.png", "apple06.png", "apple07.png", "apple08.png", "apple09.png", "apple10.png", "apple11.png", "apple12.png", "apple13.png"]
+      }
+    }
+    
+  }
+  
+  
